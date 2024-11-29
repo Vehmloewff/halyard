@@ -2,7 +2,7 @@
 	"main": "src/index.js",
 	"dependencies": {
 		"electron": "^7.2.4",
-		"i": "^0.3.6"
+		"i": "^0.3.7"
 	},
 	"scripts": {
 		"test": "driza --verbose"
