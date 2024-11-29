@@ -1,7 +1,7 @@
 {
 	"main": "src/index.js",
 	"dependencies": {
-		"electron": "^7.2.4",
+		"electron": "^18.3.7",
 		"i": "^0.3.6"
 	},
 	"scripts": {
